@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253459068340",
+    "project_id": "codedictio-ac861",
+    "storage_bucket": "codedictio-ac861.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253459068340:android:83141348d9067dde3a2ee1",
+        "android_client_info": {
+          "package_name": "com.meranel.codediction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKn9g5KckXMWe4jfMDyrY8UzVoJiZOGNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

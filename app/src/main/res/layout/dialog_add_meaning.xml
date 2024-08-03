@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- EditText for new meaning -->
+    <EditText
+        android:id="@+id/new_meaning_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter new meaning"
+        android:inputType="textMultiLine"
+        android:minLines="3"
+        android:gravity="start|top"
+        android:padding="10dp"
+        android:background="@drawable/edit_text_border"/>
+
+    <!-- Submit Button -->
+    <Button
+        android:id="@+id/submit_meaning_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp"
+        android:text="Submit" />
+
+</LinearLayout>

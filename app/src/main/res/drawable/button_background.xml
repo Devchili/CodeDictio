@@ -1,0 +1,6 @@
+<!-- res/drawable/button_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="8dp" />
+    <solid android:color="@color/violet" /> <!-- Change colorPrimary to your desired color -->
+</shape>

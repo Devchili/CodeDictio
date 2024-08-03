@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:textSize="24sp"
+        android:icon="@drawable/ic_search"
+        android:background="?attr/colorPrimary" /> <!-- Set primary color as background -->
+    <item
+        android:id="@+id/nav_bookmarks"
+        android:title="Bookmarks"
+        android:textSize="24sp"
+        android:icon="@drawable/ic_bookmark"
+        android:background="?attr/colorPrimary" /> <!-- Set primary color as background -->
+    <!-- Add more items for other fragments if needed -->
+</menu>
